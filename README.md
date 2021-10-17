@@ -38,3 +38,16 @@ Example of a valid map (formatted as *.ber):
 
 ## How to use
 
+Clone the repository:
+```bash
+https://github.com/42akurz/42_so_long.git
+```
+Go to the repository and run make
+```bash
+make
+```
+Run the program by calling the executable together with a map
+```bash
+./so_long maps/map.ber
+```
+> There are maps included in the map folder
