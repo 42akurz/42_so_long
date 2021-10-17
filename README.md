@@ -50,7 +50,9 @@ Run the program by calling the executable together with a map
 ```bash
 ./so_long maps/map.ber
 ```
-> There are maps included in the 'maps' folder  
+> There are maps included in the 'maps' folder
+
+## Controls
 
 * You move the Player by using W (up), A (left), S (down), D (right). 
 * You win if you get in the exit after collecting all the 'golden rings' 
