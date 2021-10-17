@@ -1,5 +1,7 @@
 # so_long - 42 School Project
 
+[![akurz's 42Project Score](https://badge42.herokuapp.com/api/project/akurz/so_long)](https://github.com/JaeSeoKim/badge42)
+
 ## About
 
 As a graphic design project, so long will enable you to improve your skills in these areas: windows, colors, events, textures, etc.
