@@ -60,3 +60,9 @@ Run the program by calling the executable together with a map
 * You win if you get in the exit after collecting all the 'golden rings' 
 * You can end the game by pressing 'esc' or clicking the 'red cross' at the top left
 
+## Screenshots
+
+![Screenshot](gh_img/screenshot_2.png)
+![Screenshot](gh_img/screenshot_1.png)
+
+
